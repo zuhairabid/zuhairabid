@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zuhairabid
-- 👀 I’m interested in web development, machine learning & cybersecurity
+- 👀 I’m working on web development, machine learning & cybersecurity
 - 📫 How to reach me zuhairabid.official@gmail.com
 
 <!---
