@@ -2,6 +2,7 @@
 # Thanks for visiting
 
 - 👋 Hi, I’m @zuhairabid
+- 🇧🇩 Dhaka, Bangladesh
 - 👀 I’m working on web development, Web3 and Artificial Intelligence.
 - 📫 How to reach me zuhairabid.official@gmail.com
 
